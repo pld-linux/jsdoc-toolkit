@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	system_rhino	# use system rhino, not bundled
 
-%include	/usr/lib/rpm/macros.java
 Summary:	A documentation generator for JavaScript
 Name:		jsdoc-toolkit
 Version:	2.4.0
